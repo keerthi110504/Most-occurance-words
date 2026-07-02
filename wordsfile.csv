@@ -1,0 +1,11 @@
+email,name,gender,phonenumber
+john.doe@example.com,John Doe,Male,(555) 123-4567
+jane.smith@example.com,Jane Smith,Female,(555) 234-5678
+alex.johnson@example.com,Alex Johnson,Non-binary,(555) 345-6789
+emily.williams@example.com,Emily Williams,Female,(555) 456-7890
+michael.brown@example.com,Michael Brown,Male,(555) 567-8901
+olivia.jones@example.com,Olivia Jones,Female,(555) 678-9012
+chris.martin@example.com,Chris Martin,Male,(555) 789-0123
+sophia.lee@example.com,Sophia Lee,Female,(555) 890-1234
+taylor.harris@example.com,Taylor Harris,Non-binary,(555) 901-2345
+jordan.clark@example.com,Jordan Clark,Male,(555) 012-3456
